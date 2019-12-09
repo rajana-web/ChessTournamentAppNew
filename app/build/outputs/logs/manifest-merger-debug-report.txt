@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:3:1-29:12
+INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:3:1-29:12
+INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:3:1-29:12
+INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:3:1-29:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/95034567572bfeca9083c6b62b4c9853/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/icfoss/.gradle/caches/transforms-2/files-2.1/9a79a5947e04e1ddd6bf97b44d61f7eb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/54d70b92f5a78809c79bf8df86bdb500/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/b59f2bbfdf9a1994835c7e06833c6f51/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/b1ddf9b0ffb6aede5db36d92b2300ebb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/4ea303cff0f08e84aa4044e3a2e71276/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/75a87a87531676760d20e308912a09a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/a31f4215274625bad55473e67b4b4fdd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/3d3afcbf14e9f192108e333b3e6a0636/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/a562ec5334fd778ba3e972cf1743e8c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/e980799b22bae011d73c20d43504569a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/7b864881f70dcec28ea8d403f898dd57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/b69da7091ec8d8582826ceae425bc8c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/b68564e17f5600238efbc61ecde1af84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/bd283b2770516fb38e0022d114c93891/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/d91a5faf6c58218106f230d7000965a5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/03054a7579d806c7b91db21d6a69b1f5/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/460b8f8ba00dd56b215c28b0c190329b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/icfoss/.gradle/caches/transforms-2/files-2.1/fef8960bd8c6621b167212f8481d4bb1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/0887a7241d869105f34f8fbe8d374af0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/a045c1867cc4ae97b1100f62f3bef300/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/9dd5a2cb41657a627a264cbf583152b1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/icfoss/.gradle/caches/transforms-2/files-2.1/5414575ae0f171cf23eb04f4e4c5fd74/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/icfoss/.gradle/caches/transforms-2/files-2.1/7087b7832aecf76f4cf76c430f69b818/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/icfoss/.gradle/caches/transforms-2/files-2.1/2cc56f01975030f5164430058eb2c3a9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/icfoss/.gradle/caches/transforms-2/files-2.1/6183a7414b99dc865e84d61e9232d4d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/d85bfa57f6411f4dd363edeb2ef11a84/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:3:1-29:12
+INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:3:1-29:12
+INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:3:1-29:12
+	package
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:5:5-45
+		INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml
+		INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:3:1-29:12
+		INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:3:1-29:12
+		INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:3:11-69
+	tools:ignore
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:6:5-44
+application
+ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:8:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/icfoss/.gradle/caches/transforms-2/files-2.1/9a79a5947e04e1ddd6bf97b44d61f7eb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/icfoss/.gradle/caches/transforms-2/files-2.1/9a79a5947e04e1ddd6bf97b44d61f7eb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/d91a5faf6c58218106f230d7000965a5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/d91a5faf6c58218106f230d7000965a5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/03054a7579d806c7b91db21d6a69b1f5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/03054a7579d806c7b91db21d6a69b1f5/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/d91a5faf6c58218106f230d7000965a5/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.chesstournamentapp.LoginActivity
+ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:16:9-21:20
+	android:name
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:16:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:19:27-73
+activity#com.example.chesstournamentapp.EventActivity
+ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:22:19-48
+activity#com.example.chesstournamentapp.SplashActivity
+ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:23:9-52
+	android:name
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:23:19-49
+activity#com.example.chesstournamentapp.PlayersList
+ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:24:9-49
+	android:name
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:24:19-46
+activity#com.example.chesstournamentapp.Activity_gallery
+ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:25:9-54
+	android:name
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:25:19-51
+activity#com.example.chesstournamentapp.EventregistrationActivity
+ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:26:9-63
+	android:name
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:26:19-60
+activity#com.example.chesstournamentapp.MainActivity
+ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml:27:19-47
+uses-sdk
+INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml
+INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/95034567572bfeca9083c6b62b4c9853/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/95034567572bfeca9083c6b62b4c9853/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/icfoss/.gradle/caches/transforms-2/files-2.1/9a79a5947e04e1ddd6bf97b44d61f7eb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/icfoss/.gradle/caches/transforms-2/files-2.1/9a79a5947e04e1ddd6bf97b44d61f7eb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/54d70b92f5a78809c79bf8df86bdb500/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/54d70b92f5a78809c79bf8df86bdb500/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/b59f2bbfdf9a1994835c7e06833c6f51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/b59f2bbfdf9a1994835c7e06833c6f51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/b1ddf9b0ffb6aede5db36d92b2300ebb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/b1ddf9b0ffb6aede5db36d92b2300ebb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/4ea303cff0f08e84aa4044e3a2e71276/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/4ea303cff0f08e84aa4044e3a2e71276/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/75a87a87531676760d20e308912a09a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/75a87a87531676760d20e308912a09a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/a31f4215274625bad55473e67b4b4fdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/a31f4215274625bad55473e67b4b4fdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/3d3afcbf14e9f192108e333b3e6a0636/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/3d3afcbf14e9f192108e333b3e6a0636/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/a562ec5334fd778ba3e972cf1743e8c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/a562ec5334fd778ba3e972cf1743e8c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/e980799b22bae011d73c20d43504569a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/e980799b22bae011d73c20d43504569a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/7b864881f70dcec28ea8d403f898dd57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/7b864881f70dcec28ea8d403f898dd57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/b69da7091ec8d8582826ceae425bc8c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/b69da7091ec8d8582826ceae425bc8c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/b68564e17f5600238efbc61ecde1af84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/b68564e17f5600238efbc61ecde1af84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/bd283b2770516fb38e0022d114c93891/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/bd283b2770516fb38e0022d114c93891/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/d91a5faf6c58218106f230d7000965a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/d91a5faf6c58218106f230d7000965a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/03054a7579d806c7b91db21d6a69b1f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/03054a7579d806c7b91db21d6a69b1f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/460b8f8ba00dd56b215c28b0c190329b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/460b8f8ba00dd56b215c28b0c190329b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/icfoss/.gradle/caches/transforms-2/files-2.1/fef8960bd8c6621b167212f8481d4bb1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/icfoss/.gradle/caches/transforms-2/files-2.1/fef8960bd8c6621b167212f8481d4bb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/0887a7241d869105f34f8fbe8d374af0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/0887a7241d869105f34f8fbe8d374af0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/a045c1867cc4ae97b1100f62f3bef300/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/a045c1867cc4ae97b1100f62f3bef300/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/9dd5a2cb41657a627a264cbf583152b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/9dd5a2cb41657a627a264cbf583152b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/icfoss/.gradle/caches/transforms-2/files-2.1/5414575ae0f171cf23eb04f4e4c5fd74/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/icfoss/.gradle/caches/transforms-2/files-2.1/5414575ae0f171cf23eb04f4e4c5fd74/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/icfoss/.gradle/caches/transforms-2/files-2.1/7087b7832aecf76f4cf76c430f69b818/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/icfoss/.gradle/caches/transforms-2/files-2.1/7087b7832aecf76f4cf76c430f69b818/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/icfoss/.gradle/caches/transforms-2/files-2.1/2cc56f01975030f5164430058eb2c3a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/icfoss/.gradle/caches/transforms-2/files-2.1/2cc56f01975030f5164430058eb2c3a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/icfoss/.gradle/caches/transforms-2/files-2.1/6183a7414b99dc865e84d61e9232d4d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/icfoss/.gradle/caches/transforms-2/files-2.1/6183a7414b99dc865e84d61e9232d4d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/d85bfa57f6411f4dd363edeb2ef11a84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/icfoss/.gradle/caches/transforms-2/files-2.1/d85bfa57f6411f4dd363edeb2ef11a84/AndroidManifest.xml:20:5-44
+INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml
+INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml
+		INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml
+		ADDED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml
+		INJECTED from /home/icfoss/AndroidStudioProjects/ChessTournamentAppNew/app/src/main/AndroidManifest.xml
